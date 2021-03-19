@@ -15,7 +15,7 @@ Hello, my name is Henry Fábio, here you will find one of the greatest passions 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-f76300?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-16afe4?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubenetes-2e7ade?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2e7ade?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/Grafana-e95828?style=for-the-badge&logo=grafana&logoColor=white)
 
